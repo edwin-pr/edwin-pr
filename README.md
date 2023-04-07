@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving realtime problems through resolving and innovating in coding sector.
 - 🌱 I’m currently learning and training in ALX SE cohort_13 programme
 - 💞️ I’m looking to collaborate on projects of software development with people who we are of like-minded
--  You can reach me through the links of LinkedIn and Twitter in the profile window and also whatsap me through 0743496113
+-  You can reach me through the links of LinkedIn and Twitter in the profile window and also whatsap me through 0743496113 or email me through edwingitau100@gmail.com , gitauedwin5@gmail.com.
 
 <!---
 edwin-pr/edwin-pr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
